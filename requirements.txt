@@ -1,0 +1,7 @@
+# For the Web API
+Flask
+
+# For NLP and Data Handling
+nltk
+textblob
+pandas
